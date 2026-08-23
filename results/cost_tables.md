@@ -89,3 +89,17 @@ Rates: input $0.50/M · output $3.00/M · cache-read $0.50/M
 | Poker | $3.91 |
 | Cohort | $1.21 |
 | **Suite** | **$11.34** |
+
+## Mubit · Gemini 3.1 Pro — suite total $39.47
+
+Rates: input $2.00/M · output $12.00/M
+
+| Task | Cost/run |
+|---|---:|
+| Sales | $2.02 |
+| BSM | $1.16 |
+| DB | $6.82 |
+| Codebase | $11.57 |
+| Poker | $12.91 |
+| Cohort | $4.99 |
+| **Suite** | **$39.47** |
