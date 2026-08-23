@@ -371,7 +371,7 @@
      "mean_input_tokens_per_run": 611078,
      "mean_cached_tokens_per_run": 0,
      "mean_output_tokens_per_run": 66530,
-     "mean_cost_usd_per_run": 2.0205
+     "mean_cost_usd_per_run": 1.27
     },
     "blind_spectrum_monitoring": {
      "trace": "2026-08-21T22-14-27.227843Z",
@@ -379,7 +379,7 @@
      "mean_input_tokens_per_run": 91784,
      "mean_cached_tokens_per_run": 0,
      "mean_output_tokens_per_run": 81583,
-     "mean_cost_usd_per_run": 1.1626
+     "mean_cost_usd_per_run": 1.16
     },
     "database_exploration": {
      "trace": "2026-08-22T20-39-25.472203Z",
@@ -387,7 +387,7 @@
      "mean_input_tokens_per_run": 3276776,
      "mean_cached_tokens_per_run": 0,
      "mean_output_tokens_per_run": 22167,
-     "mean_cost_usd_per_run": 6.8196
+     "mean_cost_usd_per_run": 2.81
     },
     "codebase_adaptation": {
      "trace": "2026-08-22T20-39-25.479366Z",
@@ -395,7 +395,7 @@
      "mean_input_tokens_per_run": 5350256,
      "mean_cached_tokens_per_run": 0,
      "mean_output_tokens_per_run": 72074,
-     "mean_cost_usd_per_run": 11.5654
+     "mean_cost_usd_per_run": 5.02
     },
     "exploitable_poker": {
      "trace": "2026-08-21T15-48-39.707554Z",
@@ -403,7 +403,7 @@
      "mean_input_tokens_per_run": 6291170,
      "mean_cached_tokens_per_run": 0,
      "mean_output_tokens_per_run": 27187,
-     "mean_cost_usd_per_run": 12.9086
+     "mean_cost_usd_per_run": 5.21
     },
     "cohort_studies": {
      "trace": "2026-08-20T12-00-28.532131Z",
@@ -411,10 +411,10 @@
      "mean_input_tokens_per_run": 1883097,
      "mean_cached_tokens_per_run": 0,
      "mean_output_tokens_per_run": 102204,
-     "mean_cost_usd_per_run": 4.9926
+     "mean_cost_usd_per_run": 2.69
     }
    },
-   "suite_cost_usd": 39.47
+   "suite_cost_usd": 18.16
   }
  }
 }
